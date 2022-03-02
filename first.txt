@@ -8,3 +8,4 @@ Today market is in consolidation phase
 Market may go downside now
 I lost the oppurtinity to take PE
 And now market is going to close
+Now we are working on pull command in github
