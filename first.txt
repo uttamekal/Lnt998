@@ -1,4 +1,10 @@
 Today is wednesday
 Month is March
 Year is 2022
+<<<<<<< HEAD
 Pushpa is a good movie
+=======
+An apple a day keeps away from the doctor
+Cat has 9 lives
+Today market is in consolidation phase
+>>>>>>> branch-1
